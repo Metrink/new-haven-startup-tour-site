@@ -36,6 +36,9 @@ body {
 }
 
 /* Custom Button Styles */
+.btn-lg {
+    font-size: 20pt;
+}
 
 .btn-dark {
     border-radius: 0;
